@@ -6,4 +6,3 @@ Praktek Program Komputer Python 2021
 
 ### 1. Latihan Pertama
 
-
